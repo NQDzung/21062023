@@ -1,0 +1,18 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #104B86;
+    display: flex;
+    justify-content: center;
+
+
+    .copyright {
+        padding: 21px 0;
+    }
+}
